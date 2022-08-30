@@ -34,10 +34,10 @@ Variables lingüísticas de salida: Posición del timón
 ## Terminos lingüísticos
 ### Variable de entrada X1:Velocidad
 - Universo de discurso: [0 a 1000] km/h
-- Conjuntos borrosos: X1 ∈ {Alta(500, 1000), medio(300, 750), Baja(0, 400)} 
+- Conjuntos borrosos: X1 ∈ {Alta(700,1000 ), medio(500), Baja(0, 300)} 
 ### Variable de entrada X2 : Ángulo
 - Universo de discurso: [-10 a 10] grados con respecto a la línea de vuelo
-- Conjuntos borrosos: X2 ∈ {Arriba(0, 10), Ok(0), Abajo(0, -10)} 
+- Conjuntos borrosos: X2 ∈ {Arriba(2, 10), Ok(0), Abajo(-10, -2)} 
 ### Variable de salida U1 : Posición 
 - Universo de discurso: [0 a 10] cm
-- Conjuntos borrosos: U1 ∈ {Alta(8, 10); Medio_alta(6, 8); Media(4, 6); Medio_baja(2, 4); Baja(0, 2)} 
+- Conjuntos borrosos: U1 ∈ {Alta(6, 10); Medio_alta(7); Medio(5); Medio_baja(3); Baja(0, 4)}
