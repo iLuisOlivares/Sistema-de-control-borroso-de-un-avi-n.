@@ -1,3 +1,4 @@
+[![Open in](https://img.shields.io/badge/Open%20in-%20Google%20%20Collab%20-orange.svg)](https://colab.research.google.com/github/iLuisOlivares/Sistema-de-control-borroso-de-un-avi-n./blob/main/Parcial_IA.ipynb)
 
 # Sistema de control borroso de un avión. 
 Planteamiento del problema: diseñar el Algoritmo de control difuso de vuelo de  un avión
